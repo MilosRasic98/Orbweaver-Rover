@@ -1,0 +1,4 @@
+string command
+float32 value
+---
+bool response
